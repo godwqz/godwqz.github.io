@@ -15,4 +15,20 @@
         <tag>about</tag>
       </tags>
   </entry>
+  <entry>
+    <title>想不到标题</title>
+    <url>/godwqz/2020/05/05/%E6%83%B3%E4%B8%8D%E5%88%B0%E6%A0%87%E9%A2%98/</url>
+    <content><![CDATA[<blockquote>
+<p>后来再想，你哪点值得我义无反顾。</p>
+</blockquote>
+<p>  很早之前就想搭建个博客，最近腾出时间搭建了这个博客，中间也花费了不少力气，记录下来。<br>  怕麻烦所以拒绝了wordpress选择了静态博客生成器，目前主流的开源静态博客生成器无非就是Jekyll、Hexo、Hugo；<br>  第一次选择了Hugo，因为Hugo 打出的标语 – “The world’s fastest framework for building websites”，Hugo依靠GO语言开发，号称世界上最快的构建网站工具，就我个人体验来说，jeyll、Hexo、Hugo三者中Hugo生成网页的速度最快，依赖于此，调试方便也是Hugo一大特点，它可以把博主想要修改的内容实时的显示到网页上；当然，Hugo的缺点也很明显，社区支持比较差，相应的教程比较少，使用Hugo最好具有一定代码能力和debug能力，搭建教程可以看看这个博主的<a href="https://www.cnblogs.com/Codemandyk/p/10855891.html" target="_blank" rel="noopener">https://www.cnblogs.com/Codemandyk/p/10855891.html</a> 因为官网的主题不喜欢，也找不到合适的，所以弃了。<br>  接下来尝试jeyll，Jekyll有github支持，可以将markdown文件直接放到git仓库，github会自动生成网页文件。（Github一直是一个亲ruby的社区）Jekyll搭建好了会有一个默认的主题，也可以去Jekyll的Jekyllthemes.org替换你喜欢的主题；它的缺点就是太慢了，搭建好博客后，十分钟没打开，所以弃了。搭建教程可以看看这个博主的<a href="https://www.dazhuanlan.com/2019/10/11/5d9f6c490c940/" target="_blank" rel="noopener">https://www.dazhuanlan.com/2019/10/11/5d9f6c490c940/</a><br>  最后只剩下Hexo，Hexo的编译速度介于Jekyll和Hugo之间，社区也比较完善，搭建过程遇到的问题基本都可以百度解决，唯一令人诟病的就是它的调试比较low，搭建教程可以看看这个博主的<a href="http://u7f61.gitee.io/u7f61/2020/04/23/hexo20200423/" target="_blank" rel="noopener">http://u7f61.gitee.io/u7f61/2020/04/23/hexo20200423/</a><br>  附上jeyll、Hexo、Hugo比较<br>    社区支持（以GitHub上start量化截至2020/5/5）<br>    ☆star数目：<br>      Hugo ：37576<br>      Jekyll：52850<br>      Hexo：29739<br>    编译速度：<br>      Jekyll&lt;Hexo&lt;Hugo</p>
+<p><img src="https://s1.ax1x.com/2020/05/05/Ykl8B9.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+      <tags>
+        <tag>about</tag>
+      </tags>
+  </entry>
 </search>
